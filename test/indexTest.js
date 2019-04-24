@@ -1,5 +1,3 @@
-const expect = chai.expect;
-
 describe('closures', function() {
   describe('produceDrivingRange', function(){
     it('returns a function', function(){
